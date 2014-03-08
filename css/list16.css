@@ -1,0 +1,32 @@
+ul#navlist
+{
+margin: 0 0 0 30px;
+padding: 0;
+width: 12.5%;
+}
+
+#navlist li
+{
+list-style-type: none;
+background-color: #191970;
+color: #daa520;
+border: .2em solid #daa520;
+font-weight: 600;
+text-align: center;
+padding: .3em;
+margin-bottom: .1em;
+}
+
+#navlist li a
+{
+color: #daa520;
+text-decoration: none;
+display: block;
+}
+
+#navlist li a:hover
+{
+background-color: #faebd7;
+color: #191970;
+}
+

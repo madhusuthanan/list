@@ -1,0 +1,41 @@
+.iconlist
+{
+list-style: none;
+margin: 0;
+padding: 0;
+}
+li.pdf
+{
+background-image: url(../images/bullet_pdf.gif);
+background-repeat: no-repeat;
+background-position: 0 50%;
+padding: 3px 0 3px 20px;
+margin: .4em 0;
+}
+
+li.doc
+{
+background-image: url(../images/bullet_doc.gif);
+background-repeat: no-repeat;
+background-position: 0 50%;
+padding: 3px 0 3px 20px;
+margin: .4em 0;
+}
+
+li.text
+{
+background-image: url(../images/bullet_text.gif);
+background-repeat: no-repeat;
+background-position: 0 50%;
+padding: 3px 0 3px 20px;
+margin: .4em 0;
+}
+
+li.htm
+{
+background-image: url(../images/bullet_htm.gif);
+background-repeat: no-repeat;
+background-position: 0 50%;
+padding: 3px 0 3px 20px;
+margin: .4em 0;
+}

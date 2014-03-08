@@ -1,0 +1,24 @@
+#button li {
+  list-style: none;
+  margin: 0.5em;
+}
+#button li a {
+  color: #000;
+  text-decoration: none;
+  display: block;
+  border-top: #ccc solid 3px;
+  border-left: #ccc solid 3px;
+  border-bottom: #000 solid 3px;
+  border-right: #000 solid 3px;
+  width: 10em;
+  background: #eee;
+  text-align: center;
+}
+#button li a:hover {
+  border-top: #000 solid 3px;
+  border-left: #000 solid 3px;
+  border-bottom: #ccc solid 3px;
+  border-right: #ccc solid 3px;
+  background: #666;
+  color: #fff;
+} 
